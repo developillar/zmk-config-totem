@@ -89,7 +89,7 @@
          &kp Q  &kp W  &kp E    &kp R          &kp T             &kp Y    &kp U              &kp I        &kp O    &kp P
          &kp A  &kp S  &kp D    &mt LSHFT F    &kp G             &kp H    &mt RSHFT J        &mt RCTRL K  &kp L    &mt SEMI O
 &kp TAB  &kp Z  &kp X  &kp C    &kp V          &kp B             &kp N    &kp M              &kp COMMA    &kp DOT  &kp FSLH    &mt RIGHT_CONTROL BSLH
-                       &kp DEL  &lt NAV ENTER  &kp LEFT_SHIFT    &kp RET  &lt SYM BACKSPACE  &kp ENTER
+                       &kp DEL  &lt NAV ENTER  &kp LEFT_SHIFT    &kp RET  &lt SYM BACKSPACE  &kp SPACE
             >;
         };
 
